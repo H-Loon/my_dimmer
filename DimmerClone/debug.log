@@ -1,0 +1,1494 @@
+30/12/2025 20:59:42: Application_Startup started
+30/12/2025 20:59:42: NotifyIcon setup done
+30/12/2025 20:59:42: Overlays initialized
+30/12/2025 20:59:42: Enter ShowMainWindow
+30/12/2025 20:59:42: MainWindow.Show() called
+30/12/2025 20:59:42: Window activation steps done
+30/12/2025 20:59:42: ShowMainWindow called
+30/12/2025 21:04:02: Application_Startup started
+30/12/2025 21:04:02: NotifyIcon setup done
+30/12/2025 21:04:02: Overlays initialized
+30/12/2025 21:04:02: Enter ShowMainWindow
+30/12/2025 21:04:02: MainWindow.Show() called
+30/12/2025 21:04:02: Window activation steps done
+30/12/2025 21:04:02: ShowMainWindow called
+30/12/2025 21:08:16: Application_Startup started
+30/12/2025 21:08:16: NotifyIcon setup done
+30/12/2025 21:08:17: Overlays initialized
+30/12/2025 21:08:17: Enter ShowMainWindow
+30/12/2025 21:08:17: Creating new MainWindow
+30/12/2025 21:08:17: MainWindow: Constructor started
+30/12/2025 21:08:17: MainWindow: InitializeComponent done
+30/12/2025 21:08:17: MainWindow: PopulateMonitors done
+30/12/2025 21:08:17: MainWindow: IsVisibleChanged: Visible
+30/12/2025 21:08:17: MainWindow: Activated event fired
+30/12/2025 21:08:17: MainWindow: Loaded event fired
+30/12/2025 21:08:17: MainWindow.Show() called
+30/12/2025 21:08:17: Window activation steps done
+30/12/2025 21:08:17: ShowMainWindow called
+30/12/2025 21:08:35: MainWindow: IsVisibleChanged: Visible
+30/12/2025 21:08:53: Application_Startup started
+30/12/2025 21:08:53: NotifyIcon setup done
+30/12/2025 21:08:54: Overlays initialized
+30/12/2025 21:08:54: Enter ShowMainWindow
+30/12/2025 21:08:54: Creating new MainWindow
+30/12/2025 21:08:54: MainWindow: Constructor started
+30/12/2025 21:08:54: MainWindow: InitializeComponent done
+30/12/2025 21:08:54: MainWindow: PopulateMonitors done
+30/12/2025 21:08:54: MainWindow: IsVisibleChanged: Visible
+30/12/2025 21:08:54: MainWindow: Activated event fired
+30/12/2025 21:08:54: MainWindow: Loaded event fired
+30/12/2025 21:08:54: MainWindow.Show() called
+30/12/2025 21:08:54: Window activation steps done
+30/12/2025 21:08:54: ShowMainWindow called
+30/12/2025 21:09:43: MainWindow: IsVisibleChanged: Visible
+30/12/2025 21:12:24: Application_Startup started
+30/12/2025 21:12:24: NotifyIcon setup done
+30/12/2025 21:12:24: Overlays initialized
+30/12/2025 21:12:24: Enter ShowMainWindow
+30/12/2025 21:12:24: Creating new MainWindow
+30/12/2025 21:12:24: MainWindow: Constructor started
+30/12/2025 21:12:24: MainWindow: InitializeComponent done
+30/12/2025 21:12:24: MainWindow: PopulateMonitors done
+30/12/2025 21:12:24: MainWindow: IsVisibleChanged: Visible
+30/12/2025 21:12:24: MainWindow: Activated event fired
+30/12/2025 21:12:25: MainWindow: Loaded event fired
+30/12/2025 21:12:25: MainWindow.Show() called
+30/12/2025 21:12:25: Window activation steps done
+30/12/2025 21:12:25: ShowMainWindow called
+30/12/2025 21:12:27: MainWindow: IsVisibleChanged: Hidden
+30/12/2025 21:22:26: Application_Startup started
+30/12/2025 21:22:26: NotifyIcon setup done
+30/12/2025 21:22:26: Overlays initialized
+30/12/2025 21:22:26: Enter ShowMainWindow
+30/12/2025 21:22:26: Creating new MainWindow
+30/12/2025 21:22:26: MainWindow: Constructor started
+30/12/2025 21:22:26: MainWindow: InitializeComponent done
+30/12/2025 21:22:26: MainWindow: PopulateMonitors done
+30/12/2025 21:22:26: MainWindow: IsVisibleChanged: Visible
+30/12/2025 21:22:26: MainWindow: Activated event fired
+30/12/2025 21:22:26: MainWindow: Loaded event fired
+30/12/2025 21:22:26: MainWindow.Show() called
+30/12/2025 21:22:26: Window activation steps done
+30/12/2025 21:22:26: ShowMainWindow called
+30/12/2025 21:22:37: MainWindow: Activated event fired
+30/12/2025 21:22:44: MainWindow: Activated event fired
+30/12/2025 21:23:03: MainWindow: Activated event fired
+30/12/2025 21:23:12: MainWindow: Activated event fired
+30/12/2025 21:26:55: MainWindow: IsVisibleChanged: Visible
+30/12/2025 21:31:13: Application_Startup started
+30/12/2025 21:31:13: NotifyIcon setup done
+30/12/2025 21:31:13: Overlays initialized
+30/12/2025 21:31:13: Enter ShowMainWindow
+30/12/2025 21:31:13: Creating new MainWindow
+30/12/2025 21:31:13: MainWindow: Constructor started
+30/12/2025 21:31:13: MainWindow: InitializeComponent done
+30/12/2025 21:31:13: MainWindow.Show() called
+30/12/2025 21:31:13: Window activation steps done
+30/12/2025 21:31:13: ShowMainWindow called
+30/12/2025 21:31:35: Application_Startup started
+30/12/2025 21:31:36: NotifyIcon setup done
+30/12/2025 21:31:36: Overlays initialized
+30/12/2025 21:31:36: Enter ShowMainWindow
+30/12/2025 21:31:36: Creating new MainWindow
+30/12/2025 21:31:36: MainWindow: Constructor started
+30/12/2025 21:31:36: MainWindow: InitializeComponent done
+30/12/2025 21:31:36: MainWindow.Show() called
+30/12/2025 21:31:36: Window activation steps done
+30/12/2025 21:31:36: ShowMainWindow called
+30/12/2025 21:35:02: Application_Startup started
+30/12/2025 21:35:02: NotifyIcon setup done
+30/12/2025 21:35:02: Overlays initialized
+30/12/2025 21:35:02: Enter ShowMainWindow
+30/12/2025 21:35:02: Creating new MainWindow
+30/12/2025 21:35:02: MainWindow: Constructor started
+30/12/2025 21:35:02: MainWindow: InitializeComponent done
+30/12/2025 21:35:02: MainWindow.Show() called
+30/12/2025 21:35:02: Window activation steps done
+30/12/2025 21:35:02: ShowMainWindow called
+30/12/2025 21:39:52: Application_Startup started
+30/12/2025 21:39:52: Application_Startup started
+30/12/2025 21:39:52: NotifyIcon setup done
+30/12/2025 21:39:52: Overlays initialized
+30/12/2025 21:39:52: Overlays initialized
+30/12/2025 21:39:52: Enter ShowMainWindow
+30/12/2025 21:39:52: Creating new MainWindow
+30/12/2025 21:39:52: Enter ShowMainWindow
+30/12/2025 21:39:52: Creating new MainWindow
+30/12/2025 21:39:52: MainWindow: Constructor started
+30/12/2025 21:39:52: MainWindow: Constructor started
+30/12/2025 21:39:52: MainWindow: InitializeComponent done
+30/12/2025 21:39:52: MainWindow.Show() called
+30/12/2025 21:39:52: MainWindow.Show() called
+30/12/2025 21:39:52: Window activation steps done
+30/12/2025 21:39:52: ShowMainWindow called
+30/12/2025 21:39:52: Window activation steps done
+30/12/2025 21:39:52: ShowMainWindow called
+30/12/2025 21:40:06: Application_Startup started
+30/12/2025 21:40:06: NotifyIcon setup done
+30/12/2025 21:40:06: Overlays initialized
+30/12/2025 21:40:06: Enter ShowMainWindow
+30/12/2025 21:40:06: Creating new MainWindow
+30/12/2025 21:40:06: MainWindow: Constructor started
+30/12/2025 21:40:06: MainWindow: InitializeComponent done
+30/12/2025 21:40:06: MainWindow.Show() called
+30/12/2025 21:40:06: Window activation steps done
+30/12/2025 21:40:06: ShowMainWindow called
+30/12/2025 21:40:14: Application_Startup started
+30/12/2025 21:40:14: NotifyIcon setup done
+30/12/2025 21:40:14: Overlays initialized
+30/12/2025 21:40:14: Enter ShowMainWindow
+30/12/2025 21:40:14: Creating new MainWindow
+30/12/2025 21:40:14: MainWindow: Constructor started
+30/12/2025 21:40:14: MainWindow: InitializeComponent done
+30/12/2025 21:40:14: MainWindow.Show() called
+30/12/2025 21:40:14: Window activation steps done
+30/12/2025 21:40:14: ShowMainWindow called
+30/12/2025 21:43:00: Application_Startup started
+30/12/2025 21:43:00: NotifyIcon setup done
+30/12/2025 21:43:00: Overlays initialized
+30/12/2025 21:43:00: Enter ShowMainWindow
+30/12/2025 21:43:00: Creating new MainWindow
+30/12/2025 21:43:00: MainWindow: Constructor started
+30/12/2025 21:43:00: MainWindow: InitializeComponent done
+30/12/2025 21:43:00: MainWindow.Show() called
+30/12/2025 21:43:00: Window activation steps done
+30/12/2025 21:43:00: ShowMainWindow called
+31/12/2025 00:33:17: Application_Startup started
+31/12/2025 00:33:17: NotifyIcon setup done
+31/12/2025 00:33:17: Overlays initialized
+31/12/2025 00:33:17: Enter ShowMainWindow
+31/12/2025 00:33:17: Creating new MainWindow
+31/12/2025 00:33:17: MainWindow: Constructor started
+31/12/2025 00:33:17: MainWindow: InitializeComponent done
+31/12/2025 00:33:18: MainWindow.Show() called
+31/12/2025 00:33:18: Window activation steps done
+31/12/2025 00:33:18: ShowMainWindow called
+31/12/2025 01:43:53: Enter ShowMainWindow
+31/12/2025 01:43:53: MainWindow.Show() called
+31/12/2025 01:43:53: Window activation steps done
+31/12/2025 01:46:04: Enter ShowMainWindow
+31/12/2025 01:46:04: MainWindow.Show() called
+31/12/2025 01:46:04: Window activation steps done
+31/12/2025 02:49:51: Application_Startup started
+31/12/2025 02:49:51: NotifyIcon setup done
+31/12/2025 02:49:51: Overlays initialized
+31/12/2025 02:49:51: Enter ShowMainWindow
+31/12/2025 02:49:51: Creating new MainWindow
+31/12/2025 02:49:51: MainWindow: Constructor started
+31/12/2025 02:49:51: MainWindow: InitializeComponent done
+31/12/2025 02:49:52: MainWindow.Show() called
+31/12/2025 02:49:52: Window activation steps done
+31/12/2025 02:49:52: ShowMainWindow called
+31/12/2025 02:50:05: Enter ShowMainWindow
+31/12/2025 02:50:05: MainWindow.Show() called
+31/12/2025 02:50:05: Window activation steps done
+31/12/2025 02:50:28: Enter ShowMainWindow
+31/12/2025 02:50:28: MainWindow.Show() called
+31/12/2025 02:50:28: Window activation steps done
+02/01/2026 01:08:52: Application_Startup started
+02/01/2026 01:08:52: NotifyIcon setup done
+02/01/2026 01:08:52: Overlays initialized
+02/01/2026 01:08:52: Enter ShowMainWindow
+02/01/2026 01:08:52: Creating new MainWindow
+02/01/2026 01:08:52: MainWindow: Constructor started
+02/01/2026 01:08:53: MainWindow: InitializeComponent done
+02/01/2026 01:08:53: MainWindow.Show() called
+02/01/2026 01:08:53: Window activation steps done
+02/01/2026 01:08:53: ShowMainWindow called
+03/01/2026 01:43:46: Application_Startup started
+03/01/2026 01:43:46: NotifyIcon setup done
+03/01/2026 01:43:47: Overlays initialized
+03/01/2026 01:43:47: Enter ShowMainWindow
+03/01/2026 01:43:47: Creating new MainWindow
+03/01/2026 01:43:47: MainWindow: Constructor started
+03/01/2026 01:43:47: MainWindow: InitializeComponent done
+03/01/2026 01:43:47: MainWindow.Show() called
+03/01/2026 01:43:47: Window activation steps done
+03/01/2026 01:43:47: ShowMainWindow called
+03/01/2026 01:44:04: Application_Startup started
+03/01/2026 01:44:04: NotifyIcon setup done
+03/01/2026 01:44:04: Overlays initialized
+03/01/2026 01:44:04: Enter ShowMainWindow
+03/01/2026 01:44:04: Creating new MainWindow
+03/01/2026 01:44:04: MainWindow: Constructor started
+03/01/2026 01:44:04: MainWindow: InitializeComponent done
+03/01/2026 01:44:04: MainWindow.Show() called
+03/01/2026 01:44:04: Window activation steps done
+03/01/2026 01:44:04: ShowMainWindow called
+03/01/2026 01:44:10: Enter ShowMainWindow
+03/01/2026 01:44:10: MainWindow.Show() called
+03/01/2026 01:44:10: Window activation steps done
+04/01/2026 00:16:52: Application_Startup started
+04/01/2026 00:16:52: NotifyIcon setup done
+04/01/2026 00:16:52: Overlays initialized
+04/01/2026 00:16:52: Enter ShowMainWindow
+04/01/2026 00:16:52: Creating new MainWindow
+04/01/2026 00:16:52: MainWindow: Constructor started
+04/01/2026 00:16:52: MainWindow: InitializeComponent done
+04/01/2026 00:16:52: MainWindow.Show() called
+04/01/2026 00:16:52: Window activation steps done
+04/01/2026 00:16:52: ShowMainWindow called
+05/01/2026 01:35:16: Application_Startup started
+05/01/2026 01:35:16: NotifyIcon setup done
+05/01/2026 01:35:16: Overlays initialized
+05/01/2026 01:35:16: Enter ShowMainWindow
+05/01/2026 01:35:16: Creating new MainWindow
+05/01/2026 01:35:16: MainWindow: Constructor started
+05/01/2026 01:35:17: MainWindow: InitializeComponent done
+05/01/2026 01:35:17: MainWindow.Show() called
+05/01/2026 01:35:17: Window activation steps done
+05/01/2026 01:35:17: ShowMainWindow called
+06/01/2026 01:16:11: Application_Startup started
+06/01/2026 01:16:11: NotifyIcon setup done
+06/01/2026 01:16:11: Overlays initialized
+06/01/2026 01:16:11: Enter ShowMainWindow
+06/01/2026 01:16:11: Creating new MainWindow
+06/01/2026 01:16:11: MainWindow: Constructor started
+06/01/2026 01:16:11: MainWindow: InitializeComponent done
+06/01/2026 01:16:11: MainWindow.Show() called
+06/01/2026 01:16:11: Window activation steps done
+06/01/2026 01:16:11: ShowMainWindow called
+06/01/2026 16:48:44: Application_Startup started
+06/01/2026 16:48:44: NotifyIcon setup done
+06/01/2026 16:48:44: Overlays initialized
+06/01/2026 16:48:44: Enter ShowMainWindow
+06/01/2026 16:48:44: Creating new MainWindow
+06/01/2026 16:48:44: MainWindow: Constructor started
+06/01/2026 16:48:44: MainWindow: InitializeComponent done
+06/01/2026 16:48:44: MainWindow.Show() called
+06/01/2026 16:48:44: Window activation steps done
+06/01/2026 16:48:44: ShowMainWindow called
+06/01/2026 16:55:40: Enter ShowMainWindow
+06/01/2026 16:55:40: MainWindow.Show() called
+06/01/2026 16:55:41: Window activation steps done
+07/01/2026 00:09:14: Application_Startup started
+07/01/2026 00:09:14: NotifyIcon setup done
+07/01/2026 00:09:14: Overlays initialized
+07/01/2026 00:09:14: Enter ShowMainWindow
+07/01/2026 00:09:14: Creating new MainWindow
+07/01/2026 00:09:14: MainWindow: Constructor started
+07/01/2026 00:09:14: MainWindow: InitializeComponent done
+07/01/2026 00:09:14: MainWindow.Show() called
+07/01/2026 00:09:14: Window activation steps done
+07/01/2026 00:09:14: ShowMainWindow called
+09/01/2026 00:48:08: Application_Startup started
+09/01/2026 00:48:09: NotifyIcon setup done
+09/01/2026 00:48:09: Overlays initialized
+09/01/2026 00:48:09: Enter ShowMainWindow
+09/01/2026 00:48:09: Creating new MainWindow
+09/01/2026 00:48:09: MainWindow: Constructor started
+09/01/2026 00:48:09: MainWindow: InitializeComponent done
+09/01/2026 00:48:09: MainWindow.Show() called
+09/01/2026 00:48:09: Window activation steps done
+09/01/2026 00:48:09: ShowMainWindow called
+11/01/2026 01:43:38: Application_Startup started
+11/01/2026 01:43:38: NotifyIcon setup done
+11/01/2026 01:43:38: Overlays initialized
+11/01/2026 01:43:38: Enter ShowMainWindow
+11/01/2026 01:43:38: Creating new MainWindow
+11/01/2026 01:43:38: MainWindow: Constructor started
+11/01/2026 01:43:38: MainWindow: InitializeComponent done
+11/01/2026 01:43:38: MainWindow.Show() called
+11/01/2026 01:43:38: Window activation steps done
+11/01/2026 01:43:38: ShowMainWindow called
+12/01/2026 00:35:55: Application_Startup started
+12/01/2026 00:35:55: NotifyIcon setup done
+12/01/2026 00:35:55: Overlays initialized
+12/01/2026 00:35:55: Enter ShowMainWindow
+12/01/2026 00:35:55: Creating new MainWindow
+12/01/2026 00:35:55: MainWindow: Constructor started
+12/01/2026 00:35:55: MainWindow: InitializeComponent done
+12/01/2026 00:35:56: MainWindow.Show() called
+12/01/2026 00:35:56: Window activation steps done
+12/01/2026 00:35:56: ShowMainWindow called
+12/01/2026 23:15:55: Application_Startup started
+12/01/2026 23:15:55: NotifyIcon setup done
+12/01/2026 23:15:55: Overlays initialized
+12/01/2026 23:15:55: Enter ShowMainWindow
+12/01/2026 23:15:55: Creating new MainWindow
+12/01/2026 23:15:55: MainWindow: Constructor started
+12/01/2026 23:15:55: MainWindow: InitializeComponent done
+12/01/2026 23:15:56: MainWindow.Show() called
+12/01/2026 23:15:56: Window activation steps done
+12/01/2026 23:15:56: ShowMainWindow called
+14/01/2026 00:27:52: Application_Startup started
+14/01/2026 00:27:52: NotifyIcon setup done
+14/01/2026 00:27:52: Overlays initialized
+14/01/2026 00:27:52: Enter ShowMainWindow
+14/01/2026 00:27:52: Creating new MainWindow
+14/01/2026 00:27:52: MainWindow: Constructor started
+14/01/2026 00:27:52: MainWindow: InitializeComponent done
+14/01/2026 00:27:52: MainWindow.Show() called
+14/01/2026 00:27:52: Window activation steps done
+14/01/2026 00:27:52: ShowMainWindow called
+14/01/2026 00:33:47: Enter ShowMainWindow
+14/01/2026 00:33:47: MainWindow.Show() called
+14/01/2026 00:33:47: Window activation steps done
+14/01/2026 22:12:56: Application_Startup started
+14/01/2026 22:12:57: NotifyIcon setup done
+14/01/2026 22:12:57: Overlays initialized
+14/01/2026 22:12:57: Enter ShowMainWindow
+14/01/2026 22:12:57: Creating new MainWindow
+14/01/2026 22:12:57: MainWindow: Constructor started
+14/01/2026 22:12:57: MainWindow: InitializeComponent done
+14/01/2026 22:12:57: MainWindow.Show() called
+14/01/2026 22:12:57: Window activation steps done
+14/01/2026 22:12:57: ShowMainWindow called
+16/01/2026 01:39:04: Application_Startup started
+16/01/2026 01:39:04: NotifyIcon setup done
+16/01/2026 01:39:04: Overlays initialized
+16/01/2026 01:39:04: Enter ShowMainWindow
+16/01/2026 01:39:04: Creating new MainWindow
+16/01/2026 01:39:04: MainWindow: Constructor started
+16/01/2026 01:39:05: MainWindow: InitializeComponent done
+16/01/2026 01:39:05: MainWindow.Show() called
+16/01/2026 01:39:05: Window activation steps done
+16/01/2026 01:39:05: ShowMainWindow called
+17/01/2026 02:21:29: Application_Startup started
+17/01/2026 02:21:29: NotifyIcon setup done
+17/01/2026 02:21:29: Overlays initialized
+17/01/2026 02:21:29: Enter ShowMainWindow
+17/01/2026 02:21:29: Creating new MainWindow
+17/01/2026 02:21:29: MainWindow: Constructor started
+17/01/2026 02:21:29: MainWindow: InitializeComponent done
+17/01/2026 02:21:29: MainWindow.Show() called
+17/01/2026 02:21:29: Window activation steps done
+17/01/2026 02:21:29: ShowMainWindow called
+18/01/2026 00:15:20: Application_Startup started
+18/01/2026 00:15:20: NotifyIcon setup done
+18/01/2026 00:15:20: Overlays initialized
+18/01/2026 00:15:20: Enter ShowMainWindow
+18/01/2026 00:15:20: Creating new MainWindow
+18/01/2026 00:15:20: MainWindow: Constructor started
+18/01/2026 00:15:20: MainWindow: InitializeComponent done
+18/01/2026 00:15:20: MainWindow.Show() called
+18/01/2026 00:15:20: Window activation steps done
+18/01/2026 00:15:20: ShowMainWindow called
+18/01/2026 03:36:24: Application_Startup started
+18/01/2026 03:36:24: NotifyIcon setup done
+18/01/2026 03:36:24: Overlays initialized
+18/01/2026 03:36:24: Enter ShowMainWindow
+18/01/2026 03:36:24: Creating new MainWindow
+18/01/2026 03:36:24: MainWindow: Constructor started
+18/01/2026 03:36:25: MainWindow: InitializeComponent done
+18/01/2026 03:36:25: MainWindow.Show() called
+18/01/2026 03:36:25: Window activation steps done
+18/01/2026 03:36:25: ShowMainWindow called
+18/01/2026 03:36:38: Enter ShowMainWindow
+18/01/2026 03:36:38: MainWindow.Show() called
+18/01/2026 03:36:38: Window activation steps done
+18/01/2026 15:10:53: Application_Startup started
+18/01/2026 15:10:54: NotifyIcon setup done
+18/01/2026 15:10:54: Overlays initialized
+18/01/2026 15:10:54: Enter ShowMainWindow
+18/01/2026 15:10:54: Creating new MainWindow
+18/01/2026 15:10:54: MainWindow: Constructor started
+18/01/2026 15:10:54: MainWindow: InitializeComponent done
+18/01/2026 15:10:55: MainWindow.Show() called
+18/01/2026 15:10:55: Window activation steps done
+18/01/2026 15:10:55: ShowMainWindow called
+19/01/2026 00:57:20: Application_Startup started
+19/01/2026 00:57:20: NotifyIcon setup done
+19/01/2026 00:57:20: Overlays initialized
+19/01/2026 00:57:20: Enter ShowMainWindow
+19/01/2026 00:57:20: Creating new MainWindow
+19/01/2026 00:57:20: MainWindow: Constructor started
+19/01/2026 00:57:21: MainWindow: InitializeComponent done
+19/01/2026 00:57:21: MainWindow.Show() called
+19/01/2026 00:57:21: Window activation steps done
+19/01/2026 00:57:21: ShowMainWindow called
+20/01/2026 00:41:49: Application_Startup started
+20/01/2026 00:41:49: NotifyIcon setup done
+20/01/2026 00:41:49: Overlays initialized
+20/01/2026 00:41:49: Enter ShowMainWindow
+20/01/2026 00:41:49: Creating new MainWindow
+20/01/2026 00:41:49: MainWindow: Constructor started
+20/01/2026 00:41:49: MainWindow: InitializeComponent done
+20/01/2026 00:41:50: MainWindow.Show() called
+20/01/2026 00:41:50: Window activation steps done
+20/01/2026 00:41:50: ShowMainWindow called
+21/01/2026 01:02:28: Application_Startup started
+21/01/2026 01:02:28: NotifyIcon setup done
+21/01/2026 01:02:28: Overlays initialized
+21/01/2026 01:02:28: Enter ShowMainWindow
+21/01/2026 01:02:28: Creating new MainWindow
+21/01/2026 01:02:28: MainWindow: Constructor started
+21/01/2026 01:02:28: MainWindow: InitializeComponent done
+21/01/2026 01:02:28: MainWindow.Show() called
+21/01/2026 01:02:28: Window activation steps done
+21/01/2026 01:02:28: ShowMainWindow called
+21/01/2026 01:03:39: Enter ShowMainWindow
+21/01/2026 01:03:39: MainWindow.Show() called
+21/01/2026 01:03:39: Window activation steps done
+22/01/2026 00:56:03: Application_Startup started
+22/01/2026 00:56:03: NotifyIcon setup done
+22/01/2026 00:56:03: Overlays initialized
+22/01/2026 00:56:03: Enter ShowMainWindow
+22/01/2026 00:56:03: Creating new MainWindow
+22/01/2026 00:56:03: MainWindow: Constructor started
+22/01/2026 00:56:04: MainWindow: InitializeComponent done
+22/01/2026 00:56:04: MainWindow.Show() called
+22/01/2026 00:56:04: Window activation steps done
+22/01/2026 00:56:04: ShowMainWindow called
+23/01/2026 01:31:53: Application_Startup started
+23/01/2026 01:31:53: NotifyIcon setup done
+23/01/2026 01:31:53: Overlays initialized
+23/01/2026 01:31:53: Enter ShowMainWindow
+23/01/2026 01:31:53: Creating new MainWindow
+23/01/2026 01:31:53: MainWindow: Constructor started
+23/01/2026 01:31:54: MainWindow: InitializeComponent done
+23/01/2026 01:31:54: MainWindow.Show() called
+23/01/2026 01:31:54: Window activation steps done
+23/01/2026 01:31:54: ShowMainWindow called
+24/01/2026 02:42:12: Application_Startup started
+24/01/2026 02:42:12: NotifyIcon setup done
+24/01/2026 02:42:12: Overlays initialized
+24/01/2026 02:42:12: Enter ShowMainWindow
+24/01/2026 02:42:12: Creating new MainWindow
+24/01/2026 02:42:12: MainWindow: Constructor started
+24/01/2026 02:42:13: MainWindow: InitializeComponent done
+24/01/2026 02:42:13: MainWindow.Show() called
+24/01/2026 02:42:13: Window activation steps done
+24/01/2026 02:42:13: ShowMainWindow called
+25/01/2026 01:26:38: Application_Startup started
+25/01/2026 01:26:39: NotifyIcon setup done
+25/01/2026 01:26:39: Overlays initialized
+25/01/2026 01:26:39: Enter ShowMainWindow
+25/01/2026 01:26:39: Creating new MainWindow
+25/01/2026 01:26:39: MainWindow: Constructor started
+25/01/2026 01:26:39: MainWindow: InitializeComponent done
+25/01/2026 01:26:39: MainWindow.Show() called
+25/01/2026 01:26:39: Window activation steps done
+25/01/2026 01:26:39: ShowMainWindow called
+26/01/2026 00:37:54: Application_Startup started
+26/01/2026 00:37:54: NotifyIcon setup done
+26/01/2026 00:37:54: Overlays initialized
+26/01/2026 00:37:54: Enter ShowMainWindow
+26/01/2026 00:37:54: Creating new MainWindow
+26/01/2026 00:37:54: MainWindow: Constructor started
+26/01/2026 00:37:54: MainWindow: InitializeComponent done
+26/01/2026 00:37:55: MainWindow.Show() called
+26/01/2026 00:37:55: Window activation steps done
+26/01/2026 00:37:55: ShowMainWindow called
+27/01/2026 00:41:32: Application_Startup started
+27/01/2026 00:41:32: NotifyIcon setup done
+27/01/2026 00:41:32: Overlays initialized
+27/01/2026 00:41:32: Enter ShowMainWindow
+27/01/2026 00:41:32: Creating new MainWindow
+27/01/2026 00:41:32: MainWindow: Constructor started
+27/01/2026 00:41:32: MainWindow: InitializeComponent done
+27/01/2026 00:41:32: MainWindow.Show() called
+27/01/2026 00:41:32: Window activation steps done
+27/01/2026 00:41:32: ShowMainWindow called
+28/01/2026 01:34:20: Application_Startup started
+28/01/2026 01:34:20: NotifyIcon setup done
+28/01/2026 01:34:20: Overlays initialized
+28/01/2026 01:34:20: Enter ShowMainWindow
+28/01/2026 01:34:20: Creating new MainWindow
+28/01/2026 01:34:20: MainWindow: Constructor started
+28/01/2026 01:34:20: MainWindow: InitializeComponent done
+28/01/2026 01:34:21: MainWindow.Show() called
+28/01/2026 01:34:21: Window activation steps done
+28/01/2026 01:34:21: ShowMainWindow called
+29/01/2026 00:35:20: Application_Startup started
+29/01/2026 00:35:20: NotifyIcon setup done
+29/01/2026 00:35:20: Overlays initialized
+29/01/2026 00:35:20: Enter ShowMainWindow
+29/01/2026 00:35:20: Enter ShowMainWindow
+29/01/2026 00:35:20: Creating new MainWindow
+29/01/2026 00:35:20: MainWindow: Constructor started
+29/01/2026 00:35:21: MainWindow: InitializeComponent done
+29/01/2026 00:35:21: MainWindow: InitializeComponent done
+29/01/2026 00:35:21: MainWindow.Show() called
+29/01/2026 00:35:21: Window activation steps done
+29/01/2026 00:35:21: ShowMainWindow called
+29/01/2026 00:35:21: Window activation steps done
+29/01/2026 00:35:21: ShowMainWindow called
+30/01/2026 00:46:36: Application_Startup started
+30/01/2026 00:46:36: NotifyIcon setup done
+30/01/2026 00:46:36: Overlays initialized
+30/01/2026 00:46:36: Enter ShowMainWindow
+30/01/2026 00:46:36: Creating new MainWindow
+30/01/2026 00:46:36: MainWindow: Constructor started
+30/01/2026 00:46:36: MainWindow: InitializeComponent done
+30/01/2026 00:46:36: MainWindow.Show() called
+30/01/2026 00:46:36: Window activation steps done
+30/01/2026 00:46:36: ShowMainWindow called
+31/01/2026 02:53:39: Application_Startup started
+31/01/2026 02:53:39: NotifyIcon setup done
+31/01/2026 02:53:39: Overlays initialized
+31/01/2026 02:53:39: Enter ShowMainWindow
+31/01/2026 02:53:39: Creating new MainWindow
+31/01/2026 02:53:39: MainWindow: Constructor started
+31/01/2026 02:53:39: MainWindow: InitializeComponent done
+31/01/2026 02:53:39: MainWindow.Show() called
+31/01/2026 02:53:39: Window activation steps done
+31/01/2026 02:53:39: ShowMainWindow called
+31/01/2026 18:59:30: Application_Startup started
+31/01/2026 18:59:30: NotifyIcon setup done
+31/01/2026 18:59:30: Overlays initialized
+31/01/2026 18:59:30: Enter ShowMainWindow
+31/01/2026 18:59:30: Creating new MainWindow
+31/01/2026 18:59:30: MainWindow: Constructor started
+31/01/2026 18:59:30: MainWindow: InitializeComponent done
+31/01/2026 18:59:30: MainWindow.Show() called
+31/01/2026 18:59:30: Window activation steps done
+31/01/2026 18:59:30: ShowMainWindow called
+31/01/2026 23:31:28: Application_Startup started
+31/01/2026 23:31:28: NotifyIcon setup done
+31/01/2026 23:31:28: Overlays initialized
+31/01/2026 23:31:28: Enter ShowMainWindow
+31/01/2026 23:31:28: Creating new MainWindow
+31/01/2026 23:31:28: MainWindow: Constructor started
+31/01/2026 23:31:28: MainWindow: InitializeComponent done
+31/01/2026 23:31:28: MainWindow.Show() called
+31/01/2026 23:31:28: Window activation steps done
+31/01/2026 23:31:28: ShowMainWindow called
+02/02/2026 00:28:23: Application_Startup started
+02/02/2026 00:28:23: NotifyIcon setup done
+02/02/2026 00:28:24: Overlays initialized
+02/02/2026 00:28:24: Enter ShowMainWindow
+02/02/2026 00:28:24: Creating new MainWindow
+02/02/2026 00:28:24: MainWindow: Constructor started
+02/02/2026 00:28:24: MainWindow: InitializeComponent done
+02/02/2026 00:28:24: MainWindow.Show() called
+02/02/2026 00:28:24: Window activation steps done
+02/02/2026 00:28:24: ShowMainWindow called
+02/02/2026 02:16:38: Enter ShowMainWindow
+02/02/2026 02:16:38: MainWindow.Show() called
+02/02/2026 02:16:38: Window activation steps done
+02/02/2026 02:17:08: Enter ShowMainWindow
+02/02/2026 02:17:09: MainWindow.Show() called
+02/02/2026 02:17:09: Window activation steps done
+04/02/2026 01:26:21: Application_Startup started
+04/02/2026 01:26:21: NotifyIcon setup done
+04/02/2026 01:26:22: Overlays initialized
+04/02/2026 01:26:22: Enter ShowMainWindow
+04/02/2026 01:26:22: Creating new MainWindow
+04/02/2026 01:26:22: MainWindow: Constructor started
+04/02/2026 01:26:22: MainWindow: InitializeComponent done
+04/02/2026 01:26:22: MainWindow.Show() called
+04/02/2026 01:26:22: Window activation steps done
+04/02/2026 01:26:22: ShowMainWindow called
+05/02/2026 01:35:49: Application_Startup started
+05/02/2026 01:35:49: NotifyIcon setup done
+05/02/2026 01:35:49: Overlays initialized
+05/02/2026 01:35:49: Enter ShowMainWindow
+05/02/2026 01:35:49: Creating new MainWindow
+05/02/2026 01:35:49: MainWindow: Constructor started
+05/02/2026 01:35:50: MainWindow: InitializeComponent done
+05/02/2026 01:35:50: MainWindow.Show() called
+05/02/2026 01:35:50: Window activation steps done
+05/02/2026 01:35:50: ShowMainWindow called
+06/02/2026 02:24:20: Application_Startup started
+06/02/2026 02:24:21: NotifyIcon setup done
+06/02/2026 02:24:21: Overlays initialized
+06/02/2026 02:24:21: Enter ShowMainWindow
+06/02/2026 02:24:21: Creating new MainWindow
+06/02/2026 02:24:21: MainWindow: Constructor started
+06/02/2026 02:24:21: MainWindow: InitializeComponent done
+06/02/2026 02:24:21: MainWindow.Show() called
+06/02/2026 02:24:21: Window activation steps done
+06/02/2026 02:24:21: ShowMainWindow called
+07/02/2026 02:15:47: Application_Startup started
+07/02/2026 02:15:47: NotifyIcon setup done
+07/02/2026 02:15:47: Overlays initialized
+07/02/2026 02:15:47: Enter ShowMainWindow
+07/02/2026 02:15:47: Creating new MainWindow
+07/02/2026 02:15:47: MainWindow: Constructor started
+07/02/2026 02:15:48: MainWindow: InitializeComponent done
+07/02/2026 02:15:48: MainWindow.Show() called
+07/02/2026 02:15:48: Window activation steps done
+07/02/2026 02:15:48: ShowMainWindow called
+07/02/2026 23:22:35: Application_Startup started
+07/02/2026 23:22:35: NotifyIcon setup done
+07/02/2026 23:22:35: Overlays initialized
+07/02/2026 23:22:35: Enter ShowMainWindow
+07/02/2026 23:22:35: Creating new MainWindow
+07/02/2026 23:22:35: MainWindow: Constructor started
+07/02/2026 23:22:35: MainWindow: InitializeComponent done
+07/02/2026 23:22:36: MainWindow.Show() called
+07/02/2026 23:22:36: Window activation steps done
+07/02/2026 23:22:36: ShowMainWindow called
+08/02/2026 00:19:37: Enter ShowMainWindow
+08/02/2026 00:19:37: MainWindow.Show() called
+08/02/2026 00:19:37: Window activation steps done
+08/02/2026 14:15:44: Application_Startup started
+08/02/2026 14:15:45: NotifyIcon setup done
+08/02/2026 14:15:45: Overlays initialized
+08/02/2026 14:15:45: Enter ShowMainWindow
+08/02/2026 14:15:45: Creating new MainWindow
+08/02/2026 14:15:45: MainWindow: Constructor started
+08/02/2026 14:15:45: MainWindow: InitializeComponent done
+08/02/2026 14:15:45: MainWindow.Show() called
+08/02/2026 14:15:45: Window activation steps done
+08/02/2026 14:15:45: ShowMainWindow called
+08/02/2026 17:36:32: Enter ShowMainWindow
+08/02/2026 17:36:32: MainWindow.Show() called
+08/02/2026 17:36:32: Window activation steps done
+09/02/2026 00:34:24: Application_Startup started
+09/02/2026 00:34:24: NotifyIcon setup done
+09/02/2026 00:34:24: Overlays initialized
+09/02/2026 00:34:24: Enter ShowMainWindow
+09/02/2026 00:34:24: Creating new MainWindow
+09/02/2026 00:34:24: MainWindow: Constructor started
+09/02/2026 00:34:24: MainWindow: InitializeComponent done
+09/02/2026 00:34:25: MainWindow.Show() called
+09/02/2026 00:34:25: Window activation steps done
+09/02/2026 00:34:25: ShowMainWindow called
+09/02/2026 02:06:17: Enter ShowMainWindow
+09/02/2026 02:06:17: MainWindow.Show() called
+09/02/2026 02:06:17: Window activation steps done
+09/02/2026 23:54:26: Application_Startup started
+09/02/2026 23:54:27: NotifyIcon setup done
+09/02/2026 23:54:27: Overlays initialized
+09/02/2026 23:54:27: Enter ShowMainWindow
+09/02/2026 23:54:27: Creating new MainWindow
+09/02/2026 23:54:27: MainWindow: Constructor started
+09/02/2026 23:54:27: MainWindow: InitializeComponent done
+09/02/2026 23:54:27: MainWindow.Show() called
+09/02/2026 23:54:27: Window activation steps done
+09/02/2026 23:54:27: ShowMainWindow called
+11/02/2026 02:43:34: Application_Startup started
+11/02/2026 02:43:34: NotifyIcon setup done
+11/02/2026 02:43:34: Overlays initialized
+11/02/2026 02:43:34: Enter ShowMainWindow
+11/02/2026 02:43:34: Creating new MainWindow
+11/02/2026 02:43:34: MainWindow: Constructor started
+11/02/2026 02:43:34: MainWindow: InitializeComponent done
+11/02/2026 02:43:34: MainWindow.Show() called
+11/02/2026 02:43:34: Window activation steps done
+11/02/2026 02:43:34: ShowMainWindow called
+12/02/2026 02:01:26: Application_Startup started
+12/02/2026 02:01:26: NotifyIcon setup done
+12/02/2026 02:01:26: Overlays initialized
+12/02/2026 02:01:26: Enter ShowMainWindow
+12/02/2026 02:01:26: Creating new MainWindow
+12/02/2026 02:01:26: MainWindow: Constructor started
+12/02/2026 02:01:26: MainWindow: InitializeComponent done
+12/02/2026 02:01:26: MainWindow.Show() called
+12/02/2026 02:01:26: Window activation steps done
+12/02/2026 02:01:26: ShowMainWindow called
+12/02/2026 12:28:12: Application_Startup started
+12/02/2026 12:28:12: NotifyIcon setup done
+12/02/2026 12:28:12: Overlays initialized
+12/02/2026 12:28:12: Enter ShowMainWindow
+12/02/2026 12:28:12: Creating new MainWindow
+12/02/2026 12:28:12: MainWindow: Constructor started
+12/02/2026 12:28:13: MainWindow: InitializeComponent done
+12/02/2026 12:28:13: MainWindow.Show() called
+12/02/2026 12:28:13: Window activation steps done
+12/02/2026 12:28:13: ShowMainWindow called
+12/02/2026 23:15:33: Application_Startup started
+12/02/2026 23:15:34: NotifyIcon setup done
+12/02/2026 23:15:34: Overlays initialized
+12/02/2026 23:15:34: Enter ShowMainWindow
+12/02/2026 23:15:34: Creating new MainWindow
+12/02/2026 23:15:34: MainWindow: Constructor started
+12/02/2026 23:15:34: MainWindow: InitializeComponent done
+12/02/2026 23:15:34: MainWindow.Show() called
+12/02/2026 23:15:34: Window activation steps done
+12/02/2026 23:15:34: ShowMainWindow called
+14/02/2026 02:19:36: Application_Startup started
+14/02/2026 02:19:36: NotifyIcon setup done
+14/02/2026 02:19:36: Overlays initialized
+14/02/2026 02:19:36: Enter ShowMainWindow
+14/02/2026 02:19:36: Creating new MainWindow
+14/02/2026 02:19:36: MainWindow: Constructor started
+14/02/2026 02:19:37: MainWindow: InitializeComponent done
+14/02/2026 02:19:37: MainWindow.Show() called
+14/02/2026 02:19:37: Window activation steps done
+14/02/2026 02:19:37: ShowMainWindow called
+14/02/2026 02:40:38: Enter ShowMainWindow
+14/02/2026 02:40:38: MainWindow.Show() called
+14/02/2026 02:40:38: Window activation steps done
+14/02/2026 03:31:53: Enter ShowMainWindow
+14/02/2026 03:31:53: MainWindow.Show() called
+14/02/2026 03:31:53: Window activation steps done
+15/02/2026 03:05:31: Application_Startup started
+15/02/2026 03:05:31: NotifyIcon setup done
+15/02/2026 03:05:31: Overlays initialized
+15/02/2026 03:05:31: Enter ShowMainWindow
+15/02/2026 03:05:31: Creating new MainWindow
+15/02/2026 03:05:31: MainWindow: Constructor started
+15/02/2026 03:05:31: MainWindow: InitializeComponent done
+15/02/2026 03:05:32: MainWindow.Show() called
+15/02/2026 03:05:32: Window activation steps done
+15/02/2026 03:05:32: ShowMainWindow called
+16/02/2026 00:57:22: Application_Startup started
+16/02/2026 00:57:22: NotifyIcon setup done
+16/02/2026 00:57:22: Overlays initialized
+16/02/2026 00:57:22: Enter ShowMainWindow
+16/02/2026 00:57:22: Creating new MainWindow
+16/02/2026 00:57:22: MainWindow: Constructor started
+16/02/2026 00:57:22: MainWindow: InitializeComponent done
+16/02/2026 00:57:22: MainWindow.Show() called
+16/02/2026 00:57:22: Window activation steps done
+16/02/2026 00:57:22: ShowMainWindow called
+17/02/2026 01:49:37: Application_Startup started
+17/02/2026 01:49:37: NotifyIcon setup done
+17/02/2026 01:49:37: Overlays initialized
+17/02/2026 01:49:37: Enter ShowMainWindow
+17/02/2026 01:49:37: Creating new MainWindow
+17/02/2026 01:49:37: MainWindow: Constructor started
+17/02/2026 01:49:37: MainWindow: InitializeComponent done
+17/02/2026 01:49:37: MainWindow.Show() called
+17/02/2026 01:49:37: Window activation steps done
+17/02/2026 01:49:37: ShowMainWindow called
+18/02/2026 01:14:18: Application_Startup started
+18/02/2026 01:14:18: NotifyIcon setup done
+18/02/2026 01:14:19: Overlays initialized
+18/02/2026 01:14:19: Enter ShowMainWindow
+18/02/2026 01:14:19: Creating new MainWindow
+18/02/2026 01:14:19: MainWindow: Constructor started
+18/02/2026 01:14:19: MainWindow: InitializeComponent done
+18/02/2026 01:14:19: MainWindow.Show() called
+18/02/2026 01:14:19: Window activation steps done
+18/02/2026 01:14:19: ShowMainWindow called
+18/02/2026 23:39:09: Application_Startup started
+18/02/2026 23:39:09: NotifyIcon setup done
+18/02/2026 23:39:09: Overlays initialized
+18/02/2026 23:39:09: Enter ShowMainWindow
+18/02/2026 23:39:09: Creating new MainWindow
+18/02/2026 23:39:09: MainWindow: Constructor started
+18/02/2026 23:39:09: MainWindow: InitializeComponent done
+18/02/2026 23:39:09: MainWindow.Show() called
+18/02/2026 23:39:09: Window activation steps done
+18/02/2026 23:39:09: ShowMainWindow called
+22/02/2026 01:28:18: Application_Startup started
+22/02/2026 01:28:18: NotifyIcon setup done
+22/02/2026 01:28:18: Overlays initialized
+22/02/2026 01:28:18: Enter ShowMainWindow
+22/02/2026 01:28:18: Creating new MainWindow
+22/02/2026 01:28:18: MainWindow: Constructor started
+22/02/2026 01:28:18: MainWindow: InitializeComponent done
+22/02/2026 01:28:18: MainWindow.Show() called
+22/02/2026 01:28:18: Window activation steps done
+22/02/2026 01:28:18: ShowMainWindow called
+23/02/2026 01:27:46: Application_Startup started
+23/02/2026 01:27:46: NotifyIcon setup done
+23/02/2026 01:27:46: Overlays initialized
+23/02/2026 01:27:46: Enter ShowMainWindow
+23/02/2026 01:27:46: Creating new MainWindow
+23/02/2026 01:27:46: MainWindow: Constructor started
+23/02/2026 01:27:46: MainWindow: InitializeComponent done
+23/02/2026 01:27:47: MainWindow.Show() called
+23/02/2026 01:27:47: Window activation steps done
+23/02/2026 01:27:47: ShowMainWindow called
+25/02/2026 00:35:09: Application_Startup started
+25/02/2026 00:35:09: NotifyIcon setup done
+25/02/2026 00:35:09: Overlays initialized
+25/02/2026 00:35:09: Enter ShowMainWindow
+25/02/2026 00:35:09: Creating new MainWindow
+25/02/2026 00:35:09: MainWindow: Constructor started
+25/02/2026 00:35:09: MainWindow: InitializeComponent done
+25/02/2026 00:35:09: MainWindow.Show() called
+25/02/2026 00:35:09: Window activation steps done
+25/02/2026 00:35:09: ShowMainWindow called
+26/02/2026 00:14:20: Application_Startup started
+26/02/2026 00:14:20: NotifyIcon setup done
+26/02/2026 00:14:20: Overlays initialized
+26/02/2026 00:14:20: Enter ShowMainWindow
+26/02/2026 00:14:20: Creating new MainWindow
+26/02/2026 00:14:20: MainWindow: Constructor started
+26/02/2026 00:14:21: MainWindow: InitializeComponent done
+26/02/2026 00:14:21: MainWindow.Show() called
+26/02/2026 00:14:21: Window activation steps done
+26/02/2026 00:14:21: ShowMainWindow called
+28/02/2026 03:03:00: Application_Startup started
+28/02/2026 03:03:00: NotifyIcon setup done
+28/02/2026 03:03:00: Overlays initialized
+28/02/2026 03:03:00: Enter ShowMainWindow
+28/02/2026 03:03:00: Creating new MainWindow
+28/02/2026 03:03:00: MainWindow: Constructor started
+28/02/2026 03:03:01: MainWindow: InitializeComponent done
+28/02/2026 03:03:01: MainWindow.Show() called
+28/02/2026 03:03:01: Window activation steps done
+28/02/2026 03:03:01: ShowMainWindow called
+02/03/2026 01:10:39: Application_Startup started
+02/03/2026 01:10:39: NotifyIcon setup done
+02/03/2026 01:10:39: Overlays initialized
+02/03/2026 01:10:39: Enter ShowMainWindow
+02/03/2026 01:10:39: Creating new MainWindow
+02/03/2026 01:10:39: MainWindow: Constructor started
+02/03/2026 01:10:39: MainWindow: InitializeComponent done
+02/03/2026 01:10:39: MainWindow.Show() called
+02/03/2026 01:10:39: Window activation steps done
+02/03/2026 01:10:39: ShowMainWindow called
+04/03/2026 01:53:30: Application_Startup started
+04/03/2026 01:53:30: NotifyIcon setup done
+04/03/2026 01:53:30: Overlays initialized
+04/03/2026 01:53:30: Enter ShowMainWindow
+04/03/2026 01:53:30: Creating new MainWindow
+04/03/2026 01:53:30: MainWindow: Constructor started
+04/03/2026 01:53:30: MainWindow: InitializeComponent done
+04/03/2026 01:53:30: MainWindow.Show() called
+04/03/2026 01:53:30: Window activation steps done
+04/03/2026 01:53:30: ShowMainWindow called
+05/03/2026 03:38:33: Application_Startup started
+05/03/2026 03:38:33: NotifyIcon setup done
+05/03/2026 03:38:33: Overlays initialized
+05/03/2026 03:38:33: Enter ShowMainWindow
+05/03/2026 03:38:33: Creating new MainWindow
+05/03/2026 03:38:33: MainWindow: Constructor started
+05/03/2026 03:38:33: MainWindow: InitializeComponent done
+05/03/2026 03:38:34: MainWindow.Show() called
+05/03/2026 03:38:34: Window activation steps done
+05/03/2026 03:38:34: ShowMainWindow called
+06/03/2026 01:24:44: Application_Startup started
+06/03/2026 01:24:44: NotifyIcon setup done
+06/03/2026 01:24:44: Overlays initialized
+06/03/2026 01:24:44: Enter ShowMainWindow
+06/03/2026 01:24:44: Creating new MainWindow
+06/03/2026 01:24:44: MainWindow: Constructor started
+06/03/2026 01:24:45: MainWindow: InitializeComponent done
+06/03/2026 01:24:45: MainWindow.Show() called
+06/03/2026 01:24:45: Window activation steps done
+06/03/2026 01:24:45: ShowMainWindow called
+08/03/2026 02:25:22: Application_Startup started
+08/03/2026 02:25:22: NotifyIcon setup done
+08/03/2026 02:25:23: Overlays initialized
+08/03/2026 02:25:23: Enter ShowMainWindow
+08/03/2026 02:25:23: Creating new MainWindow
+08/03/2026 02:25:23: MainWindow: Constructor started
+08/03/2026 02:25:23: MainWindow: InitializeComponent done
+08/03/2026 02:25:23: MainWindow.Show() called
+08/03/2026 02:25:23: Window activation steps done
+08/03/2026 02:25:23: ShowMainWindow called
+09/03/2026 01:11:44: Application_Startup started
+09/03/2026 01:11:44: NotifyIcon setup done
+09/03/2026 01:11:45: Overlays initialized
+09/03/2026 01:11:45: Enter ShowMainWindow
+09/03/2026 01:11:45: Creating new MainWindow
+09/03/2026 01:11:45: MainWindow: Constructor started
+09/03/2026 01:11:45: MainWindow: InitializeComponent done
+09/03/2026 01:11:45: MainWindow.Show() called
+09/03/2026 01:11:45: Window activation steps done
+09/03/2026 01:11:45: ShowMainWindow called
+10/03/2026 00:31:18: Application_Startup started
+10/03/2026 00:31:18: NotifyIcon setup done
+10/03/2026 00:31:18: Overlays initialized
+10/03/2026 00:31:18: Enter ShowMainWindow
+10/03/2026 00:31:18: Creating new MainWindow
+10/03/2026 00:31:18: MainWindow: Constructor started
+10/03/2026 00:31:19: MainWindow: InitializeComponent done
+10/03/2026 00:31:19: MainWindow.Show() called
+10/03/2026 00:31:19: Window activation steps done
+10/03/2026 00:31:19: ShowMainWindow called
+10/03/2026 02:32:51: Application_Startup started
+10/03/2026 02:32:51: NotifyIcon setup done
+10/03/2026 02:32:51: Overlays initialized
+10/03/2026 02:32:51: Enter ShowMainWindow
+10/03/2026 02:32:51: Creating new MainWindow
+10/03/2026 02:32:51: MainWindow: Constructor started
+10/03/2026 02:32:51: MainWindow: InitializeComponent done
+10/03/2026 02:32:51: MainWindow.Show() called
+10/03/2026 02:32:51: Window activation steps done
+10/03/2026 02:32:51: ShowMainWindow called
+11/03/2026 00:30:19: Application_Startup started
+11/03/2026 00:30:19: NotifyIcon setup done
+11/03/2026 00:30:19: Overlays initialized
+11/03/2026 00:30:19: Enter ShowMainWindow
+11/03/2026 00:30:19: Creating new MainWindow
+11/03/2026 00:30:19: MainWindow: Constructor started
+11/03/2026 00:30:19: MainWindow: InitializeComponent done
+11/03/2026 00:30:19: MainWindow.Show() called
+11/03/2026 00:30:19: Window activation steps done
+11/03/2026 00:30:19: ShowMainWindow called
+12/03/2026 01:15:32: Application_Startup started
+12/03/2026 01:15:33: NotifyIcon setup done
+12/03/2026 01:15:33: Overlays initialized
+12/03/2026 01:15:33: Enter ShowMainWindow
+12/03/2026 01:15:33: Creating new MainWindow
+12/03/2026 01:15:33: MainWindow: Constructor started
+12/03/2026 01:15:33: MainWindow: InitializeComponent done
+12/03/2026 01:15:33: MainWindow.Show() called
+12/03/2026 01:15:33: Window activation steps done
+12/03/2026 01:15:33: ShowMainWindow called
+13/03/2026 01:05:08: Application_Startup started
+13/03/2026 01:05:08: NotifyIcon setup done
+13/03/2026 01:05:08: Overlays initialized
+13/03/2026 01:05:08: Enter ShowMainWindow
+13/03/2026 01:05:08: Creating new MainWindow
+13/03/2026 01:05:08: MainWindow: Constructor started
+13/03/2026 01:05:08: MainWindow: InitializeComponent done
+13/03/2026 01:05:09: MainWindow.Show() called
+13/03/2026 01:05:09: Window activation steps done
+13/03/2026 01:05:09: ShowMainWindow called
+15/03/2026 02:17:17: Application_Startup started
+15/03/2026 02:17:17: NotifyIcon setup done
+15/03/2026 02:17:17: Overlays initialized
+15/03/2026 02:17:17: Enter ShowMainWindow
+15/03/2026 02:17:17: Creating new MainWindow
+15/03/2026 02:17:17: MainWindow: Constructor started
+15/03/2026 02:17:17: MainWindow: InitializeComponent done
+15/03/2026 02:17:17: MainWindow.Show() called
+15/03/2026 02:17:18: Window activation steps done
+15/03/2026 02:17:18: ShowMainWindow called
+16/03/2026 01:17:18: Application_Startup started
+16/03/2026 01:17:18: NotifyIcon setup done
+16/03/2026 01:17:19: Overlays initialized
+16/03/2026 01:17:19: Enter ShowMainWindow
+16/03/2026 01:17:19: Creating new MainWindow
+16/03/2026 01:17:19: MainWindow: Constructor started
+16/03/2026 01:17:19: MainWindow: InitializeComponent done
+16/03/2026 01:17:19: MainWindow.Show() called
+16/03/2026 01:17:19: Window activation steps done
+16/03/2026 01:17:19: ShowMainWindow called
+17/03/2026 01:27:38: Application_Startup started
+17/03/2026 01:27:38: NotifyIcon setup done
+17/03/2026 01:27:38: Overlays initialized
+17/03/2026 01:27:38: Enter ShowMainWindow
+17/03/2026 01:27:38: Creating new MainWindow
+17/03/2026 01:27:38: MainWindow: Constructor started
+17/03/2026 01:27:39: MainWindow: InitializeComponent done
+17/03/2026 01:27:39: MainWindow.Show() called
+17/03/2026 01:27:39: Window activation steps done
+17/03/2026 01:27:39: ShowMainWindow called
+18/03/2026 23:59:00: Application_Startup started
+18/03/2026 23:59:00: NotifyIcon setup done
+18/03/2026 23:59:00: Overlays initialized
+18/03/2026 23:59:00: Enter ShowMainWindow
+18/03/2026 23:59:00: Creating new MainWindow
+18/03/2026 23:59:00: MainWindow: Constructor started
+18/03/2026 23:59:00: MainWindow: InitializeComponent done
+18/03/2026 23:59:00: MainWindow.Show() called
+18/03/2026 23:59:00: Window activation steps done
+18/03/2026 23:59:00: ShowMainWindow called
+21/03/2026 02:30:16: Application_Startup started
+21/03/2026 02:30:16: NotifyIcon setup done
+21/03/2026 02:30:16: Overlays initialized
+21/03/2026 02:30:16: Enter ShowMainWindow
+21/03/2026 02:30:16: Creating new MainWindow
+21/03/2026 02:30:16: MainWindow: Constructor started
+21/03/2026 02:30:17: MainWindow: InitializeComponent done
+21/03/2026 02:30:17: MainWindow.Show() called
+21/03/2026 02:30:17: Window activation steps done
+21/03/2026 02:30:17: ShowMainWindow called
+22/03/2026 03:05:10: Application_Startup started
+22/03/2026 03:05:10: NotifyIcon setup done
+22/03/2026 03:05:10: Overlays initialized
+22/03/2026 03:05:10: Enter ShowMainWindow
+22/03/2026 03:05:10: Creating new MainWindow
+22/03/2026 03:05:10: MainWindow: Constructor started
+22/03/2026 03:05:11: MainWindow: InitializeComponent done
+22/03/2026 03:05:11: MainWindow.Show() called
+22/03/2026 03:05:11: Window activation steps done
+22/03/2026 03:05:11: ShowMainWindow called
+23/03/2026 02:34:20: Application_Startup started
+23/03/2026 02:34:20: NotifyIcon setup done
+23/03/2026 02:34:20: Overlays initialized
+23/03/2026 02:34:20: Enter ShowMainWindow
+23/03/2026 02:34:20: Creating new MainWindow
+23/03/2026 02:34:20: MainWindow: Constructor started
+23/03/2026 02:34:20: MainWindow: InitializeComponent done
+23/03/2026 02:34:21: MainWindow.Show() called
+23/03/2026 02:34:21: Window activation steps done
+23/03/2026 02:34:21: ShowMainWindow called
+24/03/2026 02:26:34: Application_Startup started
+24/03/2026 02:26:34: NotifyIcon setup done
+24/03/2026 02:26:34: Overlays initialized
+24/03/2026 02:26:34: Enter ShowMainWindow
+24/03/2026 02:26:34: Creating new MainWindow
+24/03/2026 02:26:35: MainWindow: Constructor started
+24/03/2026 02:26:35: MainWindow: InitializeComponent done
+24/03/2026 02:26:35: MainWindow.Show() called
+24/03/2026 02:26:35: Window activation steps done
+24/03/2026 02:26:35: ShowMainWindow called
+25/03/2026 01:16:52: Application_Startup started
+25/03/2026 01:16:52: NotifyIcon setup done
+25/03/2026 01:16:52: Overlays initialized
+25/03/2026 01:16:52: Enter ShowMainWindow
+25/03/2026 01:16:52: Creating new MainWindow
+25/03/2026 01:16:52: MainWindow: Constructor started
+25/03/2026 01:16:53: MainWindow: InitializeComponent done
+25/03/2026 01:16:53: MainWindow.Show() called
+25/03/2026 01:16:53: Window activation steps done
+25/03/2026 01:16:53: ShowMainWindow called
+26/03/2026 01:20:48: Application_Startup started
+26/03/2026 01:20:48: NotifyIcon setup done
+26/03/2026 01:20:48: Overlays initialized
+26/03/2026 01:20:48: Enter ShowMainWindow
+26/03/2026 01:20:48: Creating new MainWindow
+26/03/2026 01:20:49: MainWindow: Constructor started
+26/03/2026 01:20:49: MainWindow: InitializeComponent done
+26/03/2026 01:20:49: MainWindow.Show() called
+26/03/2026 01:20:49: Window activation steps done
+26/03/2026 01:20:49: ShowMainWindow called
+27/03/2026 00:51:30: Application_Startup started
+27/03/2026 00:51:30: NotifyIcon setup done
+27/03/2026 00:51:30: Overlays initialized
+27/03/2026 00:51:30: Enter ShowMainWindow
+27/03/2026 00:51:30: Creating new MainWindow
+27/03/2026 00:51:30: MainWindow: Constructor started
+27/03/2026 00:51:30: MainWindow: InitializeComponent done
+27/03/2026 00:51:31: MainWindow.Show() called
+27/03/2026 00:51:31: Window activation steps done
+27/03/2026 00:51:31: ShowMainWindow called
+28/03/2026 00:19:09: Application_Startup started
+28/03/2026 00:19:09: NotifyIcon setup done
+28/03/2026 00:19:09: Overlays initialized
+28/03/2026 00:19:09: Enter ShowMainWindow
+28/03/2026 00:19:09: Creating new MainWindow
+28/03/2026 00:19:09: MainWindow: Constructor started
+28/03/2026 00:19:09: MainWindow: InitializeComponent done
+28/03/2026 00:19:09: MainWindow.Show() called
+28/03/2026 00:19:09: Window activation steps done
+28/03/2026 00:19:09: ShowMainWindow called
+28/03/2026 02:29:13: Application_Startup started
+28/03/2026 02:29:13: NotifyIcon setup done
+28/03/2026 02:29:13: Overlays initialized
+28/03/2026 02:29:13: Enter ShowMainWindow
+28/03/2026 02:29:13: Creating new MainWindow
+28/03/2026 02:29:13: MainWindow: Constructor started
+28/03/2026 02:29:13: MainWindow: InitializeComponent done
+28/03/2026 02:29:14: MainWindow.Show() called
+28/03/2026 02:29:14: Window activation steps done
+28/03/2026 02:29:14: ShowMainWindow called
+29/03/2026 02:33:23: Application_Startup started
+29/03/2026 02:33:23: NotifyIcon setup done
+29/03/2026 02:33:23: Overlays initialized
+29/03/2026 02:33:23: Enter ShowMainWindow
+29/03/2026 02:33:23: Creating new MainWindow
+29/03/2026 02:33:23: MainWindow: Constructor started
+29/03/2026 02:33:23: MainWindow: InitializeComponent done
+29/03/2026 02:33:23: MainWindow.Show() called
+29/03/2026 02:33:23: Window activation steps done
+29/03/2026 02:33:23: ShowMainWindow called
+30/03/2026 02:44:05: Application_Startup started
+30/03/2026 02:44:06: NotifyIcon setup done
+30/03/2026 02:44:06: Overlays initialized
+30/03/2026 02:44:06: Enter ShowMainWindow
+30/03/2026 02:44:06: Creating new MainWindow
+30/03/2026 02:44:06: MainWindow: Constructor started
+30/03/2026 02:44:06: MainWindow: InitializeComponent done
+30/03/2026 02:44:06: MainWindow.Show() called
+30/03/2026 02:44:06: Window activation steps done
+30/03/2026 02:44:06: ShowMainWindow called
+11/04/2026 01:54:57: Application_Startup started
+11/04/2026 01:54:57: NotifyIcon setup done
+11/04/2026 01:54:57: Overlays initialized
+11/04/2026 01:54:57: Enter ShowMainWindow
+11/04/2026 01:54:57: Creating new MainWindow
+11/04/2026 01:54:57: MainWindow: Constructor started
+11/04/2026 01:54:58: MainWindow: InitializeComponent done
+11/04/2026 01:54:58: MainWindow.Show() called
+11/04/2026 01:54:58: Window activation steps done
+11/04/2026 01:54:58: ShowMainWindow called
+12/04/2026 01:53:32: Application_Startup started
+12/04/2026 01:53:32: NotifyIcon setup done
+12/04/2026 01:53:32: Overlays initialized
+12/04/2026 01:53:32: Enter ShowMainWindow
+12/04/2026 01:53:32: Creating new MainWindow
+12/04/2026 01:53:32: MainWindow: Constructor started
+12/04/2026 01:53:33: MainWindow: InitializeComponent done
+12/04/2026 01:53:33: MainWindow.Show() called
+12/04/2026 01:53:33: Window activation steps done
+12/04/2026 01:53:33: ShowMainWindow called
+12/04/2026 23:51:49: Application_Startup started
+12/04/2026 23:51:49: NotifyIcon setup done
+12/04/2026 23:51:49: Overlays initialized
+12/04/2026 23:51:49: Enter ShowMainWindow
+12/04/2026 23:51:49: Creating new MainWindow
+12/04/2026 23:51:49: MainWindow: Constructor started
+12/04/2026 23:51:49: MainWindow: InitializeComponent done
+12/04/2026 23:51:50: MainWindow.Show() called
+12/04/2026 23:51:50: Window activation steps done
+12/04/2026 23:51:50: ShowMainWindow called
+13/04/2026 23:30:28: Application_Startup started
+13/04/2026 23:30:28: NotifyIcon setup done
+13/04/2026 23:30:28: Overlays initialized
+13/04/2026 23:30:28: Enter ShowMainWindow
+13/04/2026 23:30:28: Creating new MainWindow
+13/04/2026 23:30:28: MainWindow: Constructor started
+13/04/2026 23:30:29: MainWindow: InitializeComponent done
+13/04/2026 23:30:29: MainWindow.Show() called
+13/04/2026 23:30:29: Window activation steps done
+13/04/2026 23:30:29: ShowMainWindow called
+15/04/2026 23:51:52: Application_Startup started
+15/04/2026 23:51:52: NotifyIcon setup done
+15/04/2026 23:51:52: Overlays initialized
+15/04/2026 23:51:52: Enter ShowMainWindow
+15/04/2026 23:51:52: Creating new MainWindow
+15/04/2026 23:51:52: MainWindow: Constructor started
+15/04/2026 23:51:52: MainWindow: InitializeComponent done
+15/04/2026 23:51:52: MainWindow.Show() called
+15/04/2026 23:51:52: Window activation steps done
+15/04/2026 23:51:52: ShowMainWindow called
+16/04/2026 23:07:22: Application_Startup started
+16/04/2026 23:07:22: NotifyIcon setup done
+16/04/2026 23:07:22: Overlays initialized
+16/04/2026 23:07:22: Enter ShowMainWindow
+16/04/2026 23:07:22: Creating new MainWindow
+16/04/2026 23:07:22: MainWindow: Constructor started
+16/04/2026 23:07:23: MainWindow: InitializeComponent done
+16/04/2026 23:07:23: MainWindow.Show() called
+16/04/2026 23:07:23: Window activation steps done
+16/04/2026 23:07:23: ShowMainWindow called
+18/04/2026 00:22:40: Application_Startup started
+18/04/2026 00:22:40: NotifyIcon setup done
+18/04/2026 00:22:40: Overlays initialized
+18/04/2026 00:22:40: Enter ShowMainWindow
+18/04/2026 00:22:40: Creating new MainWindow
+18/04/2026 00:22:40: MainWindow: Constructor started
+18/04/2026 00:22:41: MainWindow: InitializeComponent done
+18/04/2026 00:22:41: MainWindow.Show() called
+18/04/2026 00:22:41: Window activation steps done
+18/04/2026 00:22:41: ShowMainWindow called
+19/04/2026 01:48:48: Application_Startup started
+19/04/2026 01:48:48: NotifyIcon setup done
+19/04/2026 01:48:48: Overlays initialized
+19/04/2026 01:48:48: Enter ShowMainWindow
+19/04/2026 01:48:48: Creating new MainWindow
+19/04/2026 01:48:48: MainWindow: Constructor started
+19/04/2026 01:48:49: MainWindow: InitializeComponent done
+19/04/2026 01:48:49: MainWindow.Show() called
+19/04/2026 01:48:49: Window activation steps done
+19/04/2026 01:48:49: ShowMainWindow called
+20/04/2026 01:50:07: Application_Startup started
+20/04/2026 01:50:07: NotifyIcon setup done
+20/04/2026 01:50:07: Overlays initialized
+20/04/2026 01:50:07: Enter ShowMainWindow
+20/04/2026 01:50:07: Creating new MainWindow
+20/04/2026 01:50:07: MainWindow: Constructor started
+20/04/2026 01:50:08: MainWindow: InitializeComponent done
+20/04/2026 01:50:08: MainWindow.Show() called
+20/04/2026 01:50:08: Window activation steps done
+20/04/2026 01:50:08: ShowMainWindow called
+21/04/2026 01:47:43: Application_Startup started
+21/04/2026 01:47:43: NotifyIcon setup done
+21/04/2026 01:47:43: Overlays initialized
+21/04/2026 01:47:43: Enter ShowMainWindow
+21/04/2026 01:47:43: Creating new MainWindow
+21/04/2026 01:47:43: MainWindow: Constructor started
+21/04/2026 01:47:43: MainWindow: InitializeComponent done
+21/04/2026 01:47:43: MainWindow.Show() called
+21/04/2026 01:47:43: Window activation steps done
+21/04/2026 01:47:43: ShowMainWindow called
+22/04/2026 01:25:45: Application_Startup started
+22/04/2026 01:25:45: NotifyIcon setup done
+22/04/2026 01:25:45: Overlays initialized
+22/04/2026 01:25:45: Enter ShowMainWindow
+22/04/2026 01:25:45: Creating new MainWindow
+22/04/2026 01:25:45: MainWindow: Constructor started
+22/04/2026 01:25:45: MainWindow: InitializeComponent done
+22/04/2026 01:25:46: MainWindow.Show() called
+22/04/2026 01:25:46: Window activation steps done
+22/04/2026 01:25:46: ShowMainWindow called
+23/04/2026 01:07:26: Application_Startup started
+23/04/2026 01:07:27: NotifyIcon setup done
+23/04/2026 01:07:27: Overlays initialized
+23/04/2026 01:07:27: Enter ShowMainWindow
+23/04/2026 01:07:27: Creating new MainWindow
+23/04/2026 01:07:27: MainWindow: Constructor started
+23/04/2026 01:07:27: MainWindow: InitializeComponent done
+23/04/2026 01:07:27: MainWindow.Show() called
+23/04/2026 01:07:27: Window activation steps done
+23/04/2026 01:07:27: ShowMainWindow called
+23/04/2026 22:12:49: Application_Startup started
+23/04/2026 22:12:49: NotifyIcon setup done
+23/04/2026 22:12:49: Overlays initialized
+23/04/2026 22:12:49: Enter ShowMainWindow
+23/04/2026 22:12:49: Creating new MainWindow
+23/04/2026 22:12:49: MainWindow: Constructor started
+23/04/2026 22:12:49: MainWindow: InitializeComponent done
+23/04/2026 22:12:49: MainWindow.Show() called
+23/04/2026 22:12:49: Window activation steps done
+23/04/2026 22:12:49: ShowMainWindow called
+25/04/2026 00:23:56: Application_Startup started
+25/04/2026 00:23:56: NotifyIcon setup done
+25/04/2026 00:23:56: Overlays initialized
+25/04/2026 00:23:56: Enter ShowMainWindow
+25/04/2026 00:23:56: Creating new MainWindow
+25/04/2026 00:23:56: MainWindow: Constructor started
+25/04/2026 00:23:56: MainWindow: InitializeComponent done
+25/04/2026 00:23:57: MainWindow.Show() called
+25/04/2026 00:23:57: Window activation steps done
+25/04/2026 00:23:57: ShowMainWindow called
+25/04/2026 00:54:02: Enter ShowMainWindow
+25/04/2026 00:54:02: MainWindow.Show() called
+25/04/2026 00:54:02: Window activation steps done
+26/04/2026 01:14:34: Application_Startup started
+26/04/2026 01:14:34: NotifyIcon setup done
+26/04/2026 01:14:34: Overlays initialized
+26/04/2026 01:14:34: Enter ShowMainWindow
+26/04/2026 01:14:34: Creating new MainWindow
+26/04/2026 01:14:34: MainWindow: Constructor started
+26/04/2026 01:14:34: MainWindow: InitializeComponent done
+26/04/2026 01:14:34: MainWindow.Show() called
+26/04/2026 01:14:34: Window activation steps done
+26/04/2026 01:14:34: ShowMainWindow called
+27/04/2026 00:28:33: Application_Startup started
+27/04/2026 00:28:33: NotifyIcon setup done
+27/04/2026 00:28:33: Overlays initialized
+27/04/2026 00:28:33: Enter ShowMainWindow
+27/04/2026 00:28:33: Creating new MainWindow
+27/04/2026 00:28:33: MainWindow: Constructor started
+27/04/2026 00:28:33: MainWindow: InitializeComponent done
+27/04/2026 00:28:34: MainWindow.Show() called
+27/04/2026 00:28:34: Window activation steps done
+27/04/2026 00:28:34: ShowMainWindow called
+27/04/2026 23:17:58: Application_Startup started
+27/04/2026 23:17:58: NotifyIcon setup done
+27/04/2026 23:17:58: Overlays initialized
+27/04/2026 23:17:58: Enter ShowMainWindow
+27/04/2026 23:17:58: Creating new MainWindow
+27/04/2026 23:17:58: MainWindow: Constructor started
+27/04/2026 23:17:59: MainWindow: InitializeComponent done
+27/04/2026 23:17:59: MainWindow.Show() called
+27/04/2026 23:17:59: Window activation steps done
+27/04/2026 23:17:59: ShowMainWindow called
+29/04/2026 00:29:27: Application_Startup started
+29/04/2026 00:29:27: NotifyIcon setup done
+29/04/2026 00:29:27: Overlays initialized
+29/04/2026 00:29:27: Enter ShowMainWindow
+29/04/2026 00:29:27: Creating new MainWindow
+29/04/2026 00:29:27: MainWindow: Constructor started
+29/04/2026 00:29:27: MainWindow: InitializeComponent done
+29/04/2026 00:29:28: MainWindow.Show() called
+29/04/2026 00:29:28: Window activation steps done
+29/04/2026 00:29:28: ShowMainWindow called
+29/04/2026 23:45:11: Application_Startup started
+29/04/2026 23:45:12: NotifyIcon setup done
+29/04/2026 23:45:12: Overlays initialized
+29/04/2026 23:45:12: Enter ShowMainWindow
+29/04/2026 23:45:12: Creating new MainWindow
+29/04/2026 23:45:12: MainWindow: Constructor started
+29/04/2026 23:45:12: MainWindow: InitializeComponent done
+29/04/2026 23:45:12: MainWindow.Show() called
+29/04/2026 23:45:12: Window activation steps done
+29/04/2026 23:45:12: ShowMainWindow called
+01/05/2026 00:36:20: Application_Startup started
+01/05/2026 00:36:20: NotifyIcon setup done
+01/05/2026 00:36:20: Overlays initialized
+01/05/2026 00:36:20: Enter ShowMainWindow
+01/05/2026 00:36:20: Creating new MainWindow
+01/05/2026 00:36:20: MainWindow: Constructor started
+01/05/2026 00:36:20: MainWindow: InitializeComponent done
+01/05/2026 00:36:20: MainWindow.Show() called
+01/05/2026 00:36:20: Window activation steps done
+01/05/2026 00:36:20: ShowMainWindow called
+01/05/2026 23:57:24: Application_Startup started
+01/05/2026 23:57:25: NotifyIcon setup done
+01/05/2026 23:57:25: Overlays initialized
+01/05/2026 23:57:25: Enter ShowMainWindow
+01/05/2026 23:57:25: Creating new MainWindow
+01/05/2026 23:57:25: MainWindow: Constructor started
+01/05/2026 23:57:25: MainWindow: InitializeComponent done
+01/05/2026 23:57:26: MainWindow.Show() called
+01/05/2026 23:57:26: Window activation steps done
+01/05/2026 23:57:26: ShowMainWindow called
+03/05/2026 02:07:14: Application_Startup started
+03/05/2026 02:07:14: NotifyIcon setup done
+03/05/2026 02:07:14: Overlays initialized
+03/05/2026 02:07:14: Enter ShowMainWindow
+03/05/2026 02:07:14: Creating new MainWindow
+03/05/2026 02:07:14: MainWindow: Constructor started
+03/05/2026 02:07:14: MainWindow: InitializeComponent done
+03/05/2026 02:07:14: MainWindow.Show() called
+03/05/2026 02:07:14: Window activation steps done
+03/05/2026 02:07:14: ShowMainWindow called
+03/05/2026 23:30:20: Application_Startup started
+03/05/2026 23:30:20: NotifyIcon setup done
+03/05/2026 23:30:20: Overlays initialized
+03/05/2026 23:30:20: Enter ShowMainWindow
+03/05/2026 23:30:20: Creating new MainWindow
+03/05/2026 23:30:20: MainWindow: Constructor started
+03/05/2026 23:30:21: MainWindow: InitializeComponent done
+03/05/2026 23:30:21: MainWindow.Show() called
+03/05/2026 23:30:21: Window activation steps done
+03/05/2026 23:30:21: ShowMainWindow called
+04/05/2026 21:12:13: Application_Startup started
+04/05/2026 21:12:13: NotifyIcon setup done
+04/05/2026 21:12:13: Overlays initialized
+04/05/2026 21:12:13: Enter ShowMainWindow
+04/05/2026 21:12:13: Creating new MainWindow
+04/05/2026 21:12:13: MainWindow: Constructor started
+04/05/2026 21:12:13: MainWindow: InitializeComponent done
+04/05/2026 21:12:14: MainWindow.Show() called
+04/05/2026 21:12:14: Window activation steps done
+04/05/2026 21:12:14: ShowMainWindow called
+04/05/2026 23:30:29: Application_Startup started
+04/05/2026 23:30:30: NotifyIcon setup done
+04/05/2026 23:30:30: Overlays initialized
+04/05/2026 23:30:30: Enter ShowMainWindow
+04/05/2026 23:30:30: Creating new MainWindow
+04/05/2026 23:30:30: MainWindow: Constructor started
+04/05/2026 23:30:30: MainWindow: InitializeComponent done
+04/05/2026 23:30:30: MainWindow.Show() called
+04/05/2026 23:30:30: Window activation steps done
+04/05/2026 23:30:30: ShowMainWindow called
+06/05/2026 01:07:58: Application_Startup started
+06/05/2026 01:07:59: NotifyIcon setup done
+06/05/2026 01:07:59: Overlays initialized
+06/05/2026 01:07:59: Enter ShowMainWindow
+06/05/2026 01:07:59: Creating new MainWindow
+06/05/2026 01:07:59: MainWindow: Constructor started
+06/05/2026 01:07:59: MainWindow: InitializeComponent done
+06/05/2026 01:07:59: MainWindow.Show() called
+06/05/2026 01:07:59: Window activation steps done
+06/05/2026 01:07:59: ShowMainWindow called
+07/05/2026 00:50:44: Application_Startup started
+07/05/2026 00:50:44: NotifyIcon setup done
+07/05/2026 00:50:44: Overlays initialized
+07/05/2026 00:50:44: Enter ShowMainWindow
+07/05/2026 00:50:44: Creating new MainWindow
+07/05/2026 00:50:44: MainWindow: Constructor started
+07/05/2026 00:50:45: MainWindow: InitializeComponent done
+07/05/2026 00:50:45: MainWindow.Show() called
+07/05/2026 00:50:45: Window activation steps done
+07/05/2026 00:50:45: ShowMainWindow called
+07/05/2026 23:45:53: Application_Startup started
+07/05/2026 23:45:53: NotifyIcon setup done
+07/05/2026 23:45:53: Overlays initialized
+07/05/2026 23:45:53: Enter ShowMainWindow
+07/05/2026 23:45:53: Creating new MainWindow
+07/05/2026 23:45:53: MainWindow: Constructor started
+07/05/2026 23:45:54: MainWindow: InitializeComponent done
+07/05/2026 23:45:54: MainWindow.Show() called
+07/05/2026 23:45:54: Window activation steps done
+07/05/2026 23:45:54: ShowMainWindow called
+09/05/2026 00:59:56: Application_Startup started
+09/05/2026 00:59:56: NotifyIcon setup done
+09/05/2026 00:59:56: Overlays initialized
+09/05/2026 00:59:56: Enter ShowMainWindow
+09/05/2026 00:59:56: Creating new MainWindow
+09/05/2026 00:59:56: MainWindow: Constructor started
+09/05/2026 00:59:56: MainWindow: InitializeComponent done
+09/05/2026 00:59:56: MainWindow.Show() called
+09/05/2026 00:59:56: Window activation steps done
+09/05/2026 00:59:56: ShowMainWindow called
+10/05/2026 23:29:42: Application_Startup started
+10/05/2026 23:29:42: NotifyIcon setup done
+10/05/2026 23:29:43: Overlays initialized
+10/05/2026 23:29:43: Enter ShowMainWindow
+10/05/2026 23:29:43: Creating new MainWindow
+10/05/2026 23:29:43: MainWindow: Constructor started
+10/05/2026 23:29:43: MainWindow: InitializeComponent done
+10/05/2026 23:29:43: MainWindow.Show() called
+10/05/2026 23:29:43: Window activation steps done
+10/05/2026 23:29:43: ShowMainWindow called
+11/05/2026 22:34:51: Application_Startup started
+11/05/2026 22:34:51: NotifyIcon setup done
+11/05/2026 22:34:51: Overlays initialized
+11/05/2026 22:34:51: Enter ShowMainWindow
+11/05/2026 22:34:51: Creating new MainWindow
+11/05/2026 22:34:51: MainWindow: Constructor started
+11/05/2026 22:34:51: MainWindow: InitializeComponent done
+11/05/2026 22:34:51: MainWindow.Show() called
+11/05/2026 22:34:51: Window activation steps done
+11/05/2026 22:34:51: ShowMainWindow called
+14/05/2026 23:42:59: Application_Startup started
+14/05/2026 23:42:59: NotifyIcon setup done
+14/05/2026 23:42:59: Overlays initialized
+14/05/2026 23:42:59: Enter ShowMainWindow
+14/05/2026 23:42:59: Creating new MainWindow
+14/05/2026 23:42:59: MainWindow: Constructor started
+14/05/2026 23:43:00: MainWindow: InitializeComponent done
+14/05/2026 23:43:00: MainWindow.Show() called
+14/05/2026 23:43:00: Window activation steps done
+14/05/2026 23:43:00: ShowMainWindow called
+17/05/2026 00:22:41: Application_Startup started
+17/05/2026 00:22:41: NotifyIcon setup done
+17/05/2026 00:22:42: Overlays initialized
+17/05/2026 00:22:42: Enter ShowMainWindow
+17/05/2026 00:22:42: Creating new MainWindow
+17/05/2026 00:22:42: MainWindow: Constructor started
+17/05/2026 00:22:42: MainWindow: InitializeComponent done
+17/05/2026 00:22:42: MainWindow.Show() called
+17/05/2026 00:22:42: Window activation steps done
+17/05/2026 00:22:42: ShowMainWindow called
+18/05/2026 01:30:38: Application_Startup started
+18/05/2026 01:30:38: NotifyIcon setup done
+18/05/2026 01:30:38: Overlays initialized
+18/05/2026 01:30:38: Enter ShowMainWindow
+18/05/2026 01:30:38: Creating new MainWindow
+18/05/2026 01:30:38: MainWindow: Constructor started
+18/05/2026 01:30:38: MainWindow: InitializeComponent done
+18/05/2026 01:30:39: MainWindow.Show() called
+18/05/2026 01:30:39: Window activation steps done
+18/05/2026 01:30:39: ShowMainWindow called
+19/05/2026 00:55:47: Application_Startup started
+19/05/2026 00:55:47: NotifyIcon setup done
+19/05/2026 00:55:47: Overlays initialized
+19/05/2026 00:55:47: Enter ShowMainWindow
+19/05/2026 00:55:47: Creating new MainWindow
+19/05/2026 00:55:47: MainWindow: Constructor started
+19/05/2026 00:55:47: MainWindow: InitializeComponent done
+19/05/2026 00:55:47: MainWindow.Show() called
+19/05/2026 00:55:47: Window activation steps done
+19/05/2026 00:55:47: ShowMainWindow called
+20/05/2026 00:54:35: Application_Startup started
+20/05/2026 00:54:35: NotifyIcon setup done
+20/05/2026 00:54:35: Overlays initialized
+20/05/2026 00:54:35: Enter ShowMainWindow
+20/05/2026 00:54:35: Creating new MainWindow
+20/05/2026 00:54:35: MainWindow: Constructor started
+20/05/2026 00:54:35: MainWindow: InitializeComponent done
+20/05/2026 00:54:36: MainWindow.Show() called
+20/05/2026 00:54:36: Window activation steps done
+20/05/2026 00:54:36: ShowMainWindow called
+24/05/2026 00:50:31: Application_Startup started
+24/05/2026 00:50:31: NotifyIcon setup done
+24/05/2026 00:50:31: Overlays initialized
+24/05/2026 00:50:31: Enter ShowMainWindow
+24/05/2026 00:50:31: Creating new MainWindow
+24/05/2026 00:50:31: MainWindow: Constructor started
+24/05/2026 00:50:31: MainWindow: InitializeComponent done
+24/05/2026 00:50:31: MainWindow.Show() called
+24/05/2026 00:50:31: Window activation steps done
+24/05/2026 00:50:31: ShowMainWindow called
+25/05/2026 02:06:19: Application_Startup started
+25/05/2026 02:06:19: NotifyIcon setup done
+25/05/2026 02:06:19: Overlays initialized
+25/05/2026 02:06:19: Enter ShowMainWindow
+25/05/2026 02:06:19: Creating new MainWindow
+25/05/2026 02:06:19: MainWindow: Constructor started
+25/05/2026 02:06:19: MainWindow: InitializeComponent done
+25/05/2026 02:06:20: MainWindow.Show() called
+25/05/2026 02:06:20: Window activation steps done
+25/05/2026 02:06:20: ShowMainWindow called
+25/05/2026 02:18:24: Enter ShowMainWindow
+25/05/2026 02:18:24: MainWindow.Show() called
+25/05/2026 02:18:24: Window activation steps done
+26/05/2026 00:25:10: Application_Startup started
+26/05/2026 00:25:10: NotifyIcon setup done
+26/05/2026 00:25:10: Overlays initialized
+26/05/2026 00:25:10: Enter ShowMainWindow
+26/05/2026 00:25:10: Creating new MainWindow
+26/05/2026 00:25:10: MainWindow: Constructor started
+26/05/2026 00:25:10: MainWindow: InitializeComponent done
+26/05/2026 00:25:10: MainWindow.Show() called
+26/05/2026 00:25:10: Window activation steps done
+26/05/2026 00:25:10: ShowMainWindow called
+27/05/2026 01:41:48: Application_Startup started
+27/05/2026 01:41:49: NotifyIcon setup done
+27/05/2026 01:41:49: Overlays initialized
+27/05/2026 01:41:49: Enter ShowMainWindow
+27/05/2026 01:41:49: Creating new MainWindow
+27/05/2026 01:41:49: MainWindow: Constructor started
+27/05/2026 01:41:49: MainWindow: InitializeComponent done
+27/05/2026 01:41:49: MainWindow.Show() called
+27/05/2026 01:41:49: Window activation steps done
+27/05/2026 01:41:49: ShowMainWindow called
+28/05/2026 01:29:39: Application_Startup started
+28/05/2026 01:29:40: NotifyIcon setup done
+28/05/2026 01:29:40: Overlays initialized
+28/05/2026 01:29:40: Enter ShowMainWindow
+28/05/2026 01:29:40: Creating new MainWindow
+28/05/2026 01:29:40: MainWindow: Constructor started
+28/05/2026 01:29:40: MainWindow: InitializeComponent done
+28/05/2026 01:29:40: MainWindow.Show() called
+28/05/2026 01:29:40: Window activation steps done
+28/05/2026 01:29:40: ShowMainWindow called
+29/05/2026 03:43:37: Application_Startup started
+29/05/2026 03:43:38: NotifyIcon setup done
+29/05/2026 03:43:38: Overlays initialized
+29/05/2026 03:43:38: Enter ShowMainWindow
+29/05/2026 03:43:38: Creating new MainWindow
+29/05/2026 03:43:38: MainWindow: Constructor started
+29/05/2026 03:43:38: MainWindow: InitializeComponent done
+29/05/2026 03:43:39: MainWindow.Show() called
+29/05/2026 03:43:39: Window activation steps done
+29/05/2026 03:43:39: ShowMainWindow called
