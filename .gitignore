@@ -1,0 +1,43 @@
+## Ignore Visual Studio temporary files, build results, and user settings
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Re]leases/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bi]n/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio Cache and settings
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / IntelliJ Cache
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userresource
+*.userproject
+
+# Publish folder (if you want to keep the git history clean from binaries)
+# Remove the hash below if you prefer to use GitHub Releases instead of committing binaries
+# publish/
+
+# Backup and temp files
+*~
+*.backup
+*.tmp
+*.log
