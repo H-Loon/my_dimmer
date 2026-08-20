@@ -2,6 +2,11 @@
 
 A lightweight, modern Windows desktop utility that allows you to dim your screen(s) globally below their hardware minimums using the native Windows Magnification API. 
 
+<p align="center">
+  <!-- Replace the src URL below with your actual screenshot path/URL when uploaded (e.g. docs/screenshot.png) -->
+  <img src="https://raw.githubusercontent.com/yourusername/my_dimmer/main/screenshot.png" alt="Dimmer Control Panel" width="450" />
+</p>
+
 ## Features
 
 - 🖥️ **Global Fullscreen Dimming**: Uses the native Windows Magnification API (`MagSetFullscreenColorEffect`) to adjust the screen matrix color scale. This provides smooth, hardware-independent soft dimming that applies globally across all screens.
@@ -17,7 +22,21 @@ A lightweight, modern Windows desktop utility that allows you to dim your screen
 - **API**: Windows Magnification API (P/Invoke to `magnification.dll`)
 - **OS**: Windows 10 / 11
 
-## Getting Started
+## How to Use
+
+1. **Launch the Application**: Run the executable `DimmerClone.exe`. The main control panel will open, and a custom icon will appear in your system tray (bottom-right of your taskbar).
+2. **Set Brightness**: Drag the slider in the control panel to set the global brightness level:
+   - Drag to the **left** to dim your screen (down to a safe software floor of 10%).
+   - Drag to the **right** to increase brightness back to normal (100%).
+3. **Minimize / Close to Tray**: 
+   - Click the minimize button (`-`) to minimize the control panel.
+   - Click the close button (`X`) to hide the control panel. The application will continue running in the background.
+4. **Context Menu Controls**: Right-click the system tray icon to open the menu:
+   - **Settings**: Restores and shows the control panel.
+   - **Exit**: Restores screen brightness back to 100% and closes the application completely.
+5. **Quick Restore**: Double-click the tray icon at any time to quickly open the control panel.
+
+## Getting Started (For Developers)
 
 ### Prerequisites
 
@@ -46,9 +65,3 @@ To run and build the application from source:
    dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true -p:EnableCompressionInSingleFile=true
    ```
    The compiled executable `DimmerClone.exe` will be generated in `DimmerClone/bin/Release/net9.0-windows/win-x64/publish/`. Just copy that single file anywhere and run it!
-
-## Usage
-
-1. **Adjust Brightness**: Open the Dimmer Control Panel and drag the slider to dim your screen (range: 10% - 100%).
-2. **Minimize to Tray**: Click the close (`X`) or minimize button to hide the panel. The application will continue running in the background.
-3. **Tray Controls**: Double-click the tray icon to reopen the control panel, or right-click it to access settings or exit the app.

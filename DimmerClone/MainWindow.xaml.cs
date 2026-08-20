@@ -11,7 +11,9 @@ namespace DimmerClone
 
         private void Log(string message)
         {
+#if DEBUG
             try { System.IO.File.AppendAllText(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "debug.log"), $"{DateTime.Now}: MainWindow: {message}\n"); } catch {}
+#endif
         }
 
         public MainWindow()

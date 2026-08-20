@@ -15,7 +15,9 @@ namespace DimmerClone
 
         private void Log(string message)
         {
+#if DEBUG
             try { System.IO.File.AppendAllText(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "debug.log"), $"{DateTime.Now}: {message}\n"); } catch {}
+#endif
         }
 
         private void Application_Startup(object sender, StartupEventArgs e)
@@ -78,8 +80,12 @@ namespace DimmerClone
             }
             catch (Exception ex)
             {
+#if DEBUG
                 Log($"Startup fatal error: {ex}");
                 try { System.Windows.MessageBox.Show($"Startup Error: {ex.Message}\nCheck debug.log for details.", "Dimmer Error"); } catch {}
+#else
+                try { System.Windows.MessageBox.Show($"Startup Error: {ex.Message}\n\nStack Trace:\n{ex.StackTrace}", "Dimmer Error"); } catch {}
+#endif
                 Shutdown();
             }
         }
