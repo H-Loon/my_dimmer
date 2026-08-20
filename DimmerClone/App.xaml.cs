@@ -15,7 +15,7 @@ namespace DimmerClone
 
         private void Log(string message)
         {
-            try { System.IO.File.AppendAllText(@"c:\Projects\my_dimmer\DimmerClone\debug.log", $"{DateTime.Now}: {message}\n"); } catch {}
+            try { System.IO.File.AppendAllText(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "debug.log"), $"{DateTime.Now}: {message}\n"); } catch {}
         }
 
         private void Application_Startup(object sender, StartupEventArgs e)

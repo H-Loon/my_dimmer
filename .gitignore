@@ -10,7 +10,7 @@ x86/
 [Aa]rm/
 [Aa]rm64/
 bld/
-[Bi]n/
+[Bb]in/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
@@ -32,9 +32,15 @@ bld/
 *.userresource
 *.userproject
 
-# Publish folder (if you want to keep the git history clean from binaries)
-# Remove the hash below if you prefer to use GitHub Releases instead of committing binaries
-# publish/
+# Publish and release folders
+[Pp]ublish/
+[Rr]elease/
+
+# Ignore compressed build archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
 
 # Backup and temp files
 *~
