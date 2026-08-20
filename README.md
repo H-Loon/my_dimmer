@@ -4,7 +4,7 @@ A lightweight, modern Windows desktop utility that allows you to dim your screen
 
 <p align="center">
   <!-- Replace the src URL below with your actual screenshot path/URL when uploaded (e.g. docs/screenshot.png) -->
-  <img src="https://raw.githubusercontent.com/yourusername/my_dimmer/main/screenshot.png" alt="Dimmer Control Panel" width="450" />
+<img width="500" height="400" alt="Screenshot 2026-08-20 121509" src="https://github.com/user-attachments/assets/bfe410f5-382a-4ab9-bd9a-6ddaa02e6546" />
 </p>
 
 ## Features
