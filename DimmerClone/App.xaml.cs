@@ -31,11 +31,13 @@ namespace DimmerClone
                 
                 try 
                 {
-                    // Convert content PNG to Icon for the Tray
-                    string iconPath = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Icon.png");
-                    if (System.IO.File.Exists(iconPath))
+                    // Load Icon.png from embedded assembly resources (enables true single-file publish)
+                    var resourceUri = new Uri("pack://application:,,,/Icon.png", UriKind.Absolute);
+                    var resourceInfo = System.Windows.Application.GetResourceStream(resourceUri);
+                    if (resourceInfo != null)
                     {
-                        using (var bitmap = new Bitmap(iconPath))
+                        using (var stream = resourceInfo.Stream)
+                        using (var bitmap = new Bitmap(stream))
                         {
                             // GetHicon creates an unmanaged handle, we must use it carefully. 
                             // Icon.FromHandle creates a managed wrapper.

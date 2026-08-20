@@ -34,15 +34,18 @@ To run and build the application from source:
    cd my_dimmer
    ```
 
-2. Build the project:
+2. Build and run the project locally (for development):
    ```bash
    dotnet build
-   ```
-
-3. Run the application:
-   ```bash
    dotnet run --project DimmerClone
    ```
+
+3. Publish as a **self-contained, single-file executable** (requires no .NET runtime installed on the target PC):
+   ```bash
+   cd DimmerClone
+   dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true
+   ```
+   The compiled executable `DimmerClone.exe` will be generated in `DimmerClone/bin/Release/net9.0-windows/win-x64/publish/`. Just copy that single file anywhere and run it!
 
 ## Usage
 
